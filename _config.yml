@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Rami The Dino"
-  avatar           : "https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fryubijji%2F150184642148&psig=AOvVaw2MkFcjYBrlT7dcgp58D4rx&ust=1633081500232000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjL5eu0pvMCFQAAAAAdAAAAABAD"
+  avatar           : "/assets/images/pi.png"
   bio              : "I Love Maltese."
   location         : "Love"
   email            :
